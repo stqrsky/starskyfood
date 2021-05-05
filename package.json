@@ -1,0 +1,23 @@
+{
+  "name": "starskyfood",
+  "version": "1.0.0",
+  "description": "Quick Insight: * Tailwind CSS     * Setup     * Install",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stqrsky/starskyfood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stqrsky/starskyfood/issues"
+  },
+  "homepage": "https://github.com/stqrsky/starskyfood#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
