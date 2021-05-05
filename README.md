@@ -25,3 +25,7 @@ How to @apply directive of a number of classes to an individual customed class:
   @apply bg-white rounded overflow-hidden shadow-md relative
   }
 ```
+
+
+wiki: 
+- tracking-wider (class) = space between letters
