@@ -1,5 +1,5 @@
 # starskyfood
-####*small Website for educational purposes*
+####*small Website for educational purposes using TailwindCSS*
 
 ![foodstar.gif](public/img/foodstar.gif)
 
