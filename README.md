@@ -1,6 +1,8 @@
 # starskyfood
 ####*small Website for educational purposes*
 
+![foodstar.gif](public/img/foodstar.gif)
+
 Quick Insight:
 * Tailwind CSS
     * Setup
