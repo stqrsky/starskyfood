@@ -29,3 +29,4 @@ How to @apply directive of a number of classes to an individual customed class:
 
 wiki: 
 - tracking-wider (class) = space between letters
+- hidden md:block (hide&seek)
